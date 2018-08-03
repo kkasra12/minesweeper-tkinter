@@ -5,5 +5,5 @@ dependencies:
 .Tkinter
   $sudo apt-get install python3-tk
 .Pillow
-  $sudo pip3 install PILLOW
+  $sudo pip3 install Pillow
 #data folder name is stored in variable named data_path
